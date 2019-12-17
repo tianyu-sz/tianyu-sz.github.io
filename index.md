@@ -6,8 +6,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### 目前在关注的领域
 
-PaddlePaddle 深度学习框架
-Advbox AI安全对抗工具
+- PaddlePaddle 深度学习框架
+- Advbox AI安全对抗工具
 
 ```markdown
 Syntax highlighted code block
