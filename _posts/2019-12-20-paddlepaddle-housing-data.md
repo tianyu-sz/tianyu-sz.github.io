@@ -4,7 +4,7 @@ title: ' 使用深度进行波士顿房价预测'
 subtitle: '单层神经网络'
 date: 2019-12-20
 categories: 技术
-cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-theme-h2o-postcover.jpg'
+cover: 'https://ai-studio-static-online.cdn.bcebos.com/f6c44a96e1624828829bbd438c29c17ead9ecc45c68b4310bfbbb0a4dc96c3fe'
 tags:  人工智能
 ---
 
