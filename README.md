@@ -8,6 +8,9 @@
 
 ### Todo
 
-Mycat入门
-Apolle入门
+####  技术
+* Mycat入门
+* Apolle入门
 
+#### 金融
+* 《股权投资，我是这样赚钱的》
