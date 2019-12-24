@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ' 使用深度进行波士顿房价预测'
+title: '  手写神经网络进行波士顿房价预测'
 subtitle: '单层神经网络'
 date: 2019-12-20
 categories: 技术
