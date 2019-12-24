@@ -4,7 +4,7 @@ title: ' 使用深度进行波士顿房价预测'
 subtitle: '单层神经网络'
 date: 2019-12-20
 categories: 技术
-cover: https://raw.githubusercontent.com/tianyu-sz/tianyu-sz-assets/master/github-page/aaron-greenwood-WSoAtqUmzsU-unsplash.jpg
+cover: /assets/img/aaron-greenwood-WSoAtqUmzsU-unsplash.jpg
 tags:  人工智能
 ---
 
