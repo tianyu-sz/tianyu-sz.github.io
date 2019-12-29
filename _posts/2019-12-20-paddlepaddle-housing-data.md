@@ -18,3 +18,5 @@ tags:  人工智能
 
 <iframe src="//player.bilibili.com/player.html?aid=79202529&cid=135543146&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
+### 另个代码地址
+<iframe src="https://nbviewer.jupyter.org/github/tianyu-sz/MachineLearning/blob/master/用PaddlePaddle写双层神经网络波士顿房价预测.ipynb" width="100%" height="1000"></iframe>
