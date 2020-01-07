@@ -176,7 +176,7 @@ draw_train_process(iters,train_costs)
 
 
 
-![训练图](12/paddle_paddle_housing_data.png)
+![训练图](/assets/img/post/12/paddle_paddle_housing_data.png)
 
 
 ### 5. 测试模型，对所有结果进行预测并画出图
