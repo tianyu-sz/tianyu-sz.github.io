@@ -4,7 +4,7 @@ title: '吴恩达《机器学习》训练营作业笔记-1 开营'
 subtitle: '机和飞鸟在形态、结构和原理上都不相同，但都能飞翔，人工智能的未来也许如此'
 date: 2020-01-07
 categories: 机器学习 人工智能
-cover: 'https://images.unsplash.com/photo-1471421077995-d8ed48f76a59?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2110&q=80'
+cover: '/assets/img/post/12/quentin-dr-YkYSChy5RU4-unsplash.jpg'
 tags: 机器学习 人工智能 笔记
 ---
 
@@ -89,3 +89,7 @@ AI 将渗透到各行各业。5G 后数据更多，如何挖掘数据的商业�
 
 #### todo
 个别英文单词需要重新校验
+
+#### 参考资料
+
+* 背景图片 Photo by Quentin Dr on Unsplash
