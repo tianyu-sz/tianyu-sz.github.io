@@ -56,7 +56,7 @@ postPatterns: 'circuitBoard'
 # SNS settings 配置社交网站
 # url: email, weibo, zhihu, twitter, instagram, juejin, github, douban, facebook, dribble, uicn, jianshu, medium, linkedin
 sns:
-  email: '//tian.yu5@icloud.com'
+  email: 'Mailto:tian.yu5@icloud.com'
   linkedin: '//linkedin.com/in/tian-yu-a2b02b9b'
   github: 'https://github.com/tianyu-sz'
 
