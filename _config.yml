@@ -86,4 +86,4 @@ permalink: /:year/:month/:day/:title.html
 plugins: [jekyll-paginate]
 
 # 左上角图标链接
-header_icon_url: 'https://github.com/tianyu-sz'
+header_icon_url: 'https://github.com/tianyu-sz/tianyu-sz.github.io'
