@@ -4,6 +4,7 @@ title: '吴恩达《机器学习》训练营作业笔记-2 Introduction'
 subtitle: '机器学习概述'
 date: 2020-01-09
 categories: 机器学习 人工智能
+cover: '/assets/img/post/2020_01/automatic-helicop.jpg'
 tags: 机器学习 人工智能 笔记
 ---
 
