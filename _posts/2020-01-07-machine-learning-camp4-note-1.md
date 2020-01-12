@@ -23,7 +23,7 @@ tags: 机器学习 人工智能 笔记
 #### 目前应用案例
 * 淘宝 首页，千人千面
 * 头条 内容分发、推荐系统
-* 百度 搜索结果排序、投放广告的CTR预估（排序是一个子方向，learning to-rank）
+* 百度 搜索结果排序、投放广告的CTR预估（排序是一个子方向，[Learning  to  rank](https://www.jianshu.com/p/9442fc132be2)）
 * 美图秀秀 凤姐变网红 -_-!  (计算机视觉2D 目前基本上用的都是深度学习)
 * 自然语言处理（程序语言是强范式）
 * 支付宝 风控欺诈
@@ -31,10 +31,10 @@ tags: 机器学习 人工智能 笔记
 #### 相互之间的关系
 
 * 人工智能：程序能像人一样思考，实现方式可能很多
-* 机器学习：用实验建模，解决一些弱人工智能问题效果还不错。有数学理论支撑，如 VC divertion，能解释为什么可以模型泛化
-* 深度学习：机器学习的一个子方向。从 2012 年开始的。目前没有很好的解释性，更偏实验性，看效果
+* 机器学习：用实验建模，解决一些弱人工智能问题效果还不错。有数学理论支撑，如 [VC dimension](https://www.cnblogs.com/gkwang/p/5046188.html)，能解释为什么可以模型泛化
+* 深度学习：机器学习的一个子方向。从 2012 年开始的。目前没有很好的解释性，更偏实验性，看重实际效果
+* 深度学习发展图：![深度学习发展图](/assets/img/post/2020_01/96ee36cd0fc94effadcfa19f2db60716.jpg)
 
-图：
 #### Learning Experience
 
 ##### 知识结构：
@@ -45,16 +45,16 @@ tags: 机器学习 人工智能 笔记
 
 
 * 计算机基础：数据结构、数据库、操作系统、计算机网络。进阶：分布式存储于计算、流式计算、中间件
-> 流式计算：在线模型、Storm blink flink
+> 流式计算：在线模型、Storm Flink blink 
 
 * AI算法基础：机器学习、深度学习
 > 
 * 细分领域：CV、NLP、语音处理、推荐系统、计算广告、结构化数据挖掘
-> 各细分领域的专业知识 《计算广告》
+> 各细分领域的专业知识 [《计算广告：互联网商业变现的市场与技术》](https://www.amazon.cn/dp/B017CW7IC6/ref=sr_1_1?__mk_zh_CN=亚马逊网站&keywords=计算广告&qid=1578831155&sr=8-1)
 
 ##### 学术圈、比赛圈、工业圈。（三个圈都玩下）
-* 学术圈：CCFA、CCFC、IEEE 会议、A-core？
-* 比赛前：Kaggle，天池，data-fountain，data-custo 主要看 A/B 榜
+* 学术圈：CCFA、CCFC、IEEE会议、A-core？
+* 比赛圈：[Kaggle](https://www.kaggle.com)，[天池](https://tianchi.aliyun.com/competition/gameList/activeList)，Data Fountain，Data Castle 主要看 A/B 榜
 * 工业界：落地
 
 #### 如何完善知识体系：
@@ -76,7 +76,7 @@ AI 将渗透到各行各业。5G 后数据更多，如何挖掘数据的商业�
 * 机器学习入门课程
 
 #### 扩展资料推荐
-* 《Hands on Machine Learning with ？ and TensorFlow》 初学建议
+* 《Hands-On Machine Learning with Scikit-Learn and TensorFlow》 初学建议
 * 《统计学习方法》李航
 * 《机器学习》西瓜书  周志华 
 * 《PRML》 《ESL》（贝叶斯视角归纳）这两部对数学要求较高
@@ -87,8 +87,6 @@ AI 将渗透到各行各业。5G 后数据更多，如何挖掘数据的商业�
 *  细分领域、英文论文
 
 
-#### todo
-个别英文单词需要重新校验
 
 #### 参考资料
 
