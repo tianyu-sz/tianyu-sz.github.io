@@ -74,7 +74,7 @@ if its performance at tasks in T, as measured by P, improves with experience E."
 [W,s,v] = svd((repmat(sum(x.*x,1),size(x,1),1).*x)*x');
 
 ### 笔记手稿
-![手稿2-1](/assets/img/post/2020_01/note-handcraft-2-1.jpg){:height="200px" width="150px" float="left"}
-![手稿2-2](/assets/img/post/2020_01/note-handcraft-2-2.jpg){:height="200px" width="150px" float="left"}
-![手稿2-3](/assets/img/post/2020_01/note-handcraft-2-3.jpg){:height="200px" width="150px" float="left"}
-![手稿2-4](/assets/img/post/2020_01/note-handcraft-2-4.jpg){:height="200px" width="150px" float="left"}
+![手稿2-1](/assets/img/post/2020_01/note-handcraft-2-1.jpg){:height="200px" width="150px" style="float: left;"}
+![手稿2-2](/assets/img/post/2020_01/note-handcraft-2-2.jpg){:height="200px" width="150px" style="float: left;"}
+![手稿2-3](/assets/img/post/2020_01/note-handcraft-2-3.jpg){:height="200px" width="150px" style="float: left;"}
+![手稿2-4](/assets/img/post/2020_01/note-handcraft-2-4.jpg){:height="200px" width="150px" style="float: left;"}
