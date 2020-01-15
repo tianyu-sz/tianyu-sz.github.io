@@ -72,3 +72,9 @@ if its performance at tasks in T, as measured by P, improves with experience E."
 * 一个是从两个人同时说话的音频中分离出每个人单独的说话内容。一个是从讲话中分离出讲话内容和背景音。（这种用普通编程是做不到的）
 * 公式如下：
 [W,s,v] = svd((repmat(sum(x.*x,1),size(x,1),1).*x)*x');
+
+### 笔记手稿
+<img src="/assets/img/post/2020_01/note-handcraft-2-1.jpg" width = "150" height = "200" alt="手稿2-1" align=center />
+<img src="/assets/img/post/2020_01/note-handcraft-2-2.jpg" width = "150" height = "200" alt="手稿2-2" align=center />
+<img src="/assets/img/post/2020_01/note-handcraft-2-3.jpg" width = "150" height = "200" alt="手稿2-3" align=center />
+<img src="/assets/img/post/2020_01/note-handcraft-2-4.jpg" width = "150" height = "200" alt="手稿2-4" align=center />
